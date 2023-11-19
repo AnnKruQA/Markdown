@@ -51,8 +51,11 @@ def click_clear_button(self):
 [https://code.visualstudio.com/blogs/2023/07/20/mangling-vscode]
 
 ## Images
-
 ![Roma.jpg](Roma.jpg)
+
+
+![incon_help.jpg](icon_help.png)
+
 
 ## Lists
 
