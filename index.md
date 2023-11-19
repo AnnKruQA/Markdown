@@ -1,4 +1,4 @@
-# My Title <!-- omit in toc -->
+# My First Markdown <!-- omit in toc -->
 
 This is a very short introduction.
 
@@ -12,6 +12,7 @@ This is a very short introduction.
 - [Images](#images)
 - [Lists](#lists)
 - [Tables](#tables)
+
 ## Chapter 1
 
 This is my first paragraph.
