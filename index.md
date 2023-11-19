@@ -1,3 +1,7 @@
+# My Title <!-- omit in toc -->
+
+This is a very short introduction.
+
 ### Table of contents <!-- omit in toc -->
 
 - [Chapter 1](#chapter-1)
@@ -8,11 +12,6 @@
 - [Images](#images)
 - [Lists](#lists)
 - [Tables](#tables)
-
-# My Title <!-- omit in toc -->
-
-This is a very short introduction.
-
 ## Chapter 1
 
 This is my first paragraph.
