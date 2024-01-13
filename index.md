@@ -77,4 +77,4 @@ This is a new paragraph.
 | Item A       | Definition of A |
 | Item B       | Definition of B |
 
-This is another paragraph.
+This is another paragraph. 
